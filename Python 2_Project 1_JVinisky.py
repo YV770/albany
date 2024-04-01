@@ -1,7 +1,7 @@
 import pandas as pd
 
 # ingest data 
-url = "/Users/joseph/Documents/Python2024/Project1A.csv"
+url = "proj1_datafile.csv"
 df = pd.read_csv(url)
 
 # Display column names of the DataFrame
